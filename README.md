@@ -4,7 +4,8 @@
 
 I'm a developer software student. Currently in my last semester, also very passionate about technologies and how it helps us in our day by day.  .
 
-- 🔭 I'm currently learning Spring Boot to apply in Web Projects and API's Design projects.Here a link to my last studie project [spring-register-mvc](https://github.com/DanielSBaumann/spring-register-mvc)
+- 🔭 I'm currently learning Spring Boot to apply in Web Projects and API's Design projects .
+- Here a link to my last studie project [spring-register-mvc](https://github.com/DanielSBaumann/spring-register-mvc)
 - 🤝 I'm looking to collaborate on Web projects or Api design projects.
 
 ---
