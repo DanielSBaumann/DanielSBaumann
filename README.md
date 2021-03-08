@@ -1,5 +1,7 @@
 # Hi ✌️, I'm Daniel!
 
+![](https://komarev.com/ghpvc/?username=DanielSBaumann&color=blue)
+
 I'm a developer software student. Currently in my last semester, also very passionate about technologies and how it helps us in our day by day.  .
 
 - 🔭 I'm currently learning Spring Boot to apply in Web Projects and API's Design projects.
