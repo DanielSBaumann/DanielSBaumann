@@ -17,9 +17,11 @@ I'm a developer software student. Currently in my last semester, also very passi
 
 ### 💥GitHub Stats💥
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSBaumann)](https://github.com/DanielSBaumann/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSBaumann&layout=compact)](https://github.com/DanielSBaumann/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSBaumann)](https://github.com/DanielSBaumann/github-readme-stats)
 
-[![Daniel wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DanielSBaumann)](https://github.com/DanielSBaumann/github-readme-stats)
+### Languages Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSBaumann&layout=compact)](https://github.com/DanielSBaumann/github-readme-stats)
 
 ---
 
