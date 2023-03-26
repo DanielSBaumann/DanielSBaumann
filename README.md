@@ -28,4 +28,4 @@ Software engineer with experience in designing, testing, and maintaining Java so
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DanielSBaumann)](https://github.com/DanielSBaumann)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-baumann-6054a437/)](https://www.linkedin.com/in/daniel-baumann-6054a437/)
 [![Gmail Badge](https://img.shields.io/badge/-dr4wone@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dr4wone@gmail.com)](mailto:dr4wone@gmail.com)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@dr4wone)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@dr4wone)](https://medium.com/@dr4wone)
