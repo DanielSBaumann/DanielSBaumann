@@ -2,11 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=DanielSBaumann&color=blue)
 
-I'm a developer software student. Currently in my last semester, also very passionate about technologies and how it helps us in our day by day.  .
-
-- 🔭 I'm currently learning Spring Boot to apply in Web Projects and API's Design projects .
-- Here a link to my last studie project [spring-register-mvc](https://github.com/DanielSBaumann/spring-register-mvc)
-- 🤝 I'm looking to collaborate on Web projects or Api design projects.
+Software engineer with experience in designing, testing, and maintaining Java software systems.
+ Proficient in both legacy and microservices patterns and skilled in the Spring ecosystem, including Spring Boot and Spring Security.
 
 ---
 
@@ -26,12 +23,9 @@ I'm a developer software student. Currently in my last semester, also very passi
 
 ---
 
-### Medium ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-
-
 ### 📫 Connect with me:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DanielSBaumann)](https://github.com/DanielSBaumann)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-baumann-6054a437/)](https://www.linkedin.com/in/daniel-baumann-6054a437/)
 [![Gmail Badge](https://img.shields.io/badge/-dr4wone@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dr4wone@gmail.com)](mailto:dr4wone@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@dr4wone)]
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@dr4wone)
