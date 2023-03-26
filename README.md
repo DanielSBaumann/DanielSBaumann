@@ -15,7 +15,7 @@ Software engineer with experience in designing, testing, and maintaining Java so
 
 ### 💥GitHub Stats💥
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSBaumann)](https://github.com/DanielSBaumann/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSBaumann&count_private=true)](https://github.com/DanielSBaumann/github-readme-stats)
 
 ### Languages Stats
 
